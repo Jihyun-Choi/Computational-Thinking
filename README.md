@@ -1,8 +1,8 @@
 # Computational-Thinking
 
-<img width="70" src="https://user-images.githubusercontent.com/70438098/131756078-93a00ec3-d8be-4369-9970-6351b85d1d88.png"/> 
+<img width="100" src="https://user-images.githubusercontent.com/70438098/131756078-93a00ec3-d8be-4369-9970-6351b85d1d88.png"/> 
 
-<img width="70" src="https://user-images.githubusercontent.com/70438098/131756213-b452c53e-cf94-45fc-9cda-244082e5a4ff.png"/> 
+<img width="100" src="https://user-images.githubusercontent.com/70438098/131756213-b452c53e-cf94-45fc-9cda-244082e5a4ff.png"/> 
 
 <img width="70" src="https://user-images.githubusercontent.com/70438098/131756233-2afd1588-4cbd-4cfa-8b1d-738e5554d7cc.png"/> 
 
