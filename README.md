@@ -1,5 +1,5 @@
 # Computational-Thinking
- #### Let's make quicksort efficiently!
+ #### [Let's make quicksort efficiently!](https://www.notion.so/Quick-Sort-c17d19b4b39443f0be8b7adbf4d5d51a)
 
 <img width="700" src="https://user-images.githubusercontent.com/70438098/131756213-b452c53e-cf94-45fc-9cda-244082e5a4ff.png"/> 
 
